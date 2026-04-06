@@ -9,7 +9,7 @@ HederaHash is designed to provide developers and professionals with a robust, ef
 
 The primary purpose of HederaHash is to streamline development workflows and enhance productivity through innovative features and comprehensive functionality. Whether you're building enterprise applications, data processing pipelines, or interactive systems, HederaHash provides the foundation you need for successful project implementation.
 
-HederaHash's key benefits include:
+HederaHash's key benefits include: 
 
 * **High-performance architecture**: Leveraging optimized algorithms and efficient data structures for maximum performance.
 * **Modern development patterns**: Implementing contemporary software engineering practices and design patterns.
